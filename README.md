@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sarayva
-- 👀 I’m interested in money
-- 🌱 I’m currently learning html/css/javascript
-- 💞️ I’m looking to collaborate on ...nop
-- 📫 How to reach me ... dont send
+👋 Hi, I’m @Sarayva  
+👀 I’m interested in data, games & making money 😁  
+🌱 I’m currently learning Python (level up loading...)  
+💞 I’m looking to collaborate, learn and grow together!  
+📫 How to reach me … [Instagram](https://www.instagram.com/gabrielsarayva_/) 📥
 
 <!---
 Sarayva/Sarayva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
